@@ -3,11 +3,18 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 brew install \
+zsh-completions \
+zsh-syntax-highlighting \
+zsh-autosuggestions \
+thefuck \
 watch \
+pv \
 htop \
 wget \
 git \
 nmap \
+speedtest-cli \
+shellcheck \
 rclone \
 shopify-cli \
 awscli
