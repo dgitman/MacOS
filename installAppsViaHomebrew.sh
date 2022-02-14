@@ -53,3 +53,6 @@ stats \
 cleanmymac \
 nordvpn \
 google-trends
+
+brew tap \
+homebrew/autoupdate
