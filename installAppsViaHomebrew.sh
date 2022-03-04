@@ -47,6 +47,7 @@ memory \
 timely \
 clickup \
 visual-studio-code \
+kaleidoscope \ 
 transmit \
 divvy \
 stats \
