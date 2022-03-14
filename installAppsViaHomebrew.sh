@@ -27,7 +27,6 @@ google-chrome \
 google-drive \
 onedrive \
 dropbox \
-beeper \
 slack \
 discord \
 signal \
@@ -45,7 +44,7 @@ microsoft-excel \
 microsoft-powerpoint \
 memory \
 timely \
-clickup \
+upwork \
 visual-studio-code \
 kaleidoscope \ 
 transmit \
