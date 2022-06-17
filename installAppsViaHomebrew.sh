@@ -49,11 +49,10 @@ github \
 visual-studio-code \
 kaleidoscope \ 
 transmit \
-divvy \
+rectangle \
 stats \
 cleanmymac \
 nordvpn \
-google-trends
-
+google-trends \
 brew tap \
 homebrew/autoupdate
