@@ -54,5 +54,11 @@ stats \
 cleanmymac \
 nordvpn \
 google-trends \
+
+#3D printing
+creality-slicer \
+ultimaker-cura \
+
+#Cleanup?
 brew tap \
-homebrew/autoupdate
+homebrew/autoupdate 
