@@ -58,6 +58,7 @@ google-trends \
 #3D printing
 creality-slicer \
 ultimaker-cura \
+raspberry-pi-imager \
 
 #Cleanup?
 brew tap \
