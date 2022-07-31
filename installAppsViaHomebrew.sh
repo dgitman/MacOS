@@ -59,6 +59,8 @@ google-trends \
 creality-slicer \
 ultimaker-cura \
 raspberry-pi-imager \
+#https://github.com/mriscoc/Ender3V2S1/wiki/How-to-generate-a-gcode-preview
+pillow \
 
 #Cleanup?
 brew tap \
