@@ -42,6 +42,7 @@ mimestream \
 microsoft-word \
 microsoft-excel \
 microsoft-powerpoint \
+microsoft-teams \
 memory \
 timely \
 upwork \
