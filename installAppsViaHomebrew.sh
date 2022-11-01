@@ -21,6 +21,7 @@ awscli
 
 # https://formulae.brew.sh/cask/
 brew install --cask \
+monitorcontrol \
 1password \
 1password-cli \
 google-chrome \
