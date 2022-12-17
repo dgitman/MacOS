@@ -43,6 +43,7 @@ mimestream \
 microsoft-word \
 microsoft-excel \
 microsoft-powerpoint \
+microsoft-outlook \
 microsoft-teams \
 memory \
 timely \
