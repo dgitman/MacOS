@@ -45,6 +45,7 @@ microsoft-excel \
 microsoft-powerpoint \
 microsoft-outlook \
 microsoft-teams \
+notion \
 memory \
 timely \
 upwork \
