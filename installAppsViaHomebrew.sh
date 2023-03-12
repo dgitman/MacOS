@@ -33,6 +33,7 @@ telegram \
 viber \
 messenger \
 whatsapp \
+beeper \
 zoom \
 cardhop \
 kindle \
