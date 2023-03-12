@@ -46,7 +46,6 @@ microsoft-teams \
 notion \
 memory \
 timely \
-upwork \
 github \
 visual-studio-code \
 kaleidoscope \ 
