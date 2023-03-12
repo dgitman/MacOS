@@ -34,7 +34,6 @@ viber \
 messenger \
 whatsapp \
 zoom \
-fantastical \
 cardhop \
 kindle \
 mimestream \
