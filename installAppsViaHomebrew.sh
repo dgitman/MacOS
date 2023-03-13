@@ -26,6 +26,7 @@ google-chrome \
 google-drive \
 onedrive \
 dropbox \
+cron \
 slack \
 discord \
 signal \
