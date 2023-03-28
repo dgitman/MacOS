@@ -1,6 +1,12 @@
 #!/bin/bash
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+which -s brew
+if [[ $? != 0 ]] ; then
+    # Install Homebrew
+    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+else
+    brew update
+fi
 
 brew install \
 zsh-completions \
@@ -18,6 +24,7 @@ rclone \
 awscli
 
 # https://formulae.brew.sh/cask/
+brew install cask
 brew install --cask \
 monitorcontrol \
 hiddenbar \
@@ -50,21 +57,22 @@ memory \
 timely \
 github \
 visual-studio-code \
-kaleidoscope \ 
+kaleidoscope \
 transmit \
 rectangle \
 stats \
 cleanmymac \
-nordvpn \
+nordvpn
 
 #3D printing
+brew install --cask \
 creality-slicer \
 ultimaker-cura \
 raspberry-pi-imager \
 #https://github.com/mriscoc/Ender3V2S1/wiki/How-to-generate-a-gcode-preview
 pillow \
 
-Shopify
+#Shopify
 brew tap shopify/shopify
 brew install shopify-cli
 
