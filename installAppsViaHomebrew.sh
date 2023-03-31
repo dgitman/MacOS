@@ -34,6 +34,7 @@ google-chrome \
 google-drive \
 onedrive \
 dropbox \
+box-drive \
 cron \
 slack \
 discord \
