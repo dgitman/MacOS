@@ -54,12 +54,14 @@ microsoft-powerpoint \
 microsoft-outlook \
 microsoft-teams \
 notion \
+anylist \
 memory \
 timely \
 github \
 visual-studio-code \
 kaleidoscope \
 transmit \
+figma \
 rectangle \
 stats \
 cleanmymac \
