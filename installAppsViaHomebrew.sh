@@ -27,7 +27,7 @@ awscli
 brew install cask
 brew install --cask \
 monitorcontrol \
-hiddenbar \
+bartender \
 1password \
 1password-cli \
 google-chrome \
