@@ -34,16 +34,14 @@ google-chrome \
 google-drive \
 onedrive \
 dropbox \
-box-drive \
+spotify \
 cron \
 slack \
 discord \
 signal \
 telegram \
 viber \
-messenger \
 whatsapp \
-beeper \
 zoom \
 cardhop \
 kindle \
