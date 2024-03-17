@@ -29,7 +29,6 @@ brew install --cask \
 monitorcontrol \
 bartender \
 1password \
-1password-cli \
 google-chrome \
 google-drive \
 onedrive \
@@ -52,7 +51,7 @@ microsoft-powerpoint \
 microsoft-outlook \
 microsoft-teams \
 notion \
-anylist \
+notion-calendar \
 memory \
 timely \
 github \
