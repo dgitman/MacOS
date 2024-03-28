@@ -62,7 +62,8 @@ figma \
 rectangle \
 stats \
 cleanmymac \
-nordvpn
+nordvpn \
+warp
 
 #3D printing
 brew install --cask \
