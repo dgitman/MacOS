@@ -60,7 +60,8 @@ figma \
 rectangle \
 stats \
 nordvpn \
-warp
+warp \
+clay
 
 #3D printing
 brew install --cask \
