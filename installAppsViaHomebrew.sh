@@ -52,8 +52,6 @@ microsoft-outlook \
 microsoft-teams \
 notion \
 notion-calendar \
-memory \
-timely \
 github \
 visual-studio-code \
 kaleidoscope \
@@ -61,7 +59,6 @@ transmit \
 figma \
 rectangle \
 stats \
-cleanmymac \
 nordvpn \
 warp
 
