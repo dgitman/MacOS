@@ -21,6 +21,7 @@ git \
 nmap \
 speedtest-cli \
 rclone \
+fdupes \
 awscli
 
 # https://formulae.brew.sh/cask/
