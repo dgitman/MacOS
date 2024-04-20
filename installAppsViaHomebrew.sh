@@ -42,6 +42,7 @@ signal \
 telegram \
 viber \
 whatsapp \
+messenger \
 zoom \
 cardhop \
 kindle \
@@ -53,6 +54,7 @@ microsoft-outlook \
 microsoft-teams \
 notion \
 notion-calendar \
+fantastical \
 github \
 visual-studio-code \
 kaleidoscope \
