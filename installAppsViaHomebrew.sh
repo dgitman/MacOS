@@ -24,7 +24,7 @@ rclone \
 fdupes \
 awscli
 
-# https://formulae.brew.sh/cask/
+# Casks https://formulae.brew.sh/cask/
 brew install cask
 brew install --cask \
 monitorcontrol \
@@ -63,20 +63,19 @@ figma \
 rectangle \
 stats \
 nordvpn \
-warp \
-clay
+warp
 
-#3D printing
+#3D Printing
 brew install --cask \
 creality-slicer \
 ultimaker-cura \
 raspberry-pi-imager \
-#https://github.com/mriscoc/Ender3V2S1/wiki/How-to-generate-a-gcode-preview
-pillow
 
 #Shopify
 brew tap shopify/shopify
 brew install shopify-cli
 
-#Cleanup?
-brew tap homebrew/autoupdate 
+#Autoupdate
+brew tap homebrew/autoupdate
+brew install pinentry-mac
+brew autoupdate start --cleanup --upgrade --sudo
