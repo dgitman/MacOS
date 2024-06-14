@@ -1,3 +1,4 @@
+tap "buo/cask-upgrade"
 tap "homebrew/autoupdate"
 tap "homebrew/bundle"
 tap "homebrew/cask"
