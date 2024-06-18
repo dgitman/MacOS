@@ -122,6 +122,8 @@ cask "spotify"
 cask "stats"
 # Messaging app with a focus on speed and security
 cask "telegram"
+# Open-source BitTorrent client
+cask "transmission"
 # File transfer application
 cask "transmit"
 # 3D printer and slicing GUI
