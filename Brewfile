@@ -80,6 +80,8 @@ cask "google-cloud-sdk"
 cask "google-drive"
 # Grammarly for desktop
 cask "grammarly-desktop"
+# iPhone management application
+cask "imazing"
 # Spot and merge differences in text and image files or folders
 cask "kaleidoscope"
 # Interface for reading and syncing eBooks
