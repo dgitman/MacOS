@@ -16,6 +16,8 @@ brew "gh"
 brew "git"
 # Improved top (interactive process viewer)
 brew "htop"
+# Command-line tool to export and inspect local iMessage database
+brew "imessage-exporter"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
 # Mac App Store command-line interface
